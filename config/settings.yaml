@@ -1,0 +1,3 @@
+# Configurations (model params, training settings) 
+learning_rate: 0.001 
+batch_size: 32 

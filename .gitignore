@@ -1,0 +1,5 @@
+# Ignore virtual env and IDE files 
+venv/ 
+.idea/ 
+__pycache__/ 
+*.log 

@@ -1,0 +1,9 @@
+{ 
+  "phrases": [ 
+    {"kabras": "Mulembe" , "english": "Hello"},
+    {"kabras": "Omubasu kululire", "english": "The sun is hot today"},
+    {"kabras": "olatsitsanga ena?", "english": "Where are you going?"},
+    {"kabras": "Mlembe", "english": "Hello"},
+    {"Kabras":"Oriena","english": "How are you?"}
+  ] 
+} 
